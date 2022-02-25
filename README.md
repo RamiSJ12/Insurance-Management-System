@@ -1,0 +1,2 @@
+# Insurance-Management-System
+This system is a multi-user web-based application system. It manages all the insurance policies of the customer. Admin has more features than that of the customer. Here, admin account can be created using createsuperuser command. After logging in to the system, admin can perform the CRUD operations of the customer, policies, categories. Also, admin can view all the registered users and give response to the question asked by the customers.
