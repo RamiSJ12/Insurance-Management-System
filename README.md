@@ -1,5 +1,5 @@
 # Insurance Management
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Rami%20S.%20Jaber-red)
 ---
 ## screenshots
 ### Homepage
